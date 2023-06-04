@@ -19,6 +19,7 @@ or
 Simply download the Zip File and run on your system
 
 <hr />
+<hr />
 
 # Getting Started with Create React App
 
