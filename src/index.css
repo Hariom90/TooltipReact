@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+    background-image: url(https://img.freepik.com/free-photo/yellow-ginkgo-leaf-framed_53876-95289.jpg?w=360&t=st=1685879915~exp=1685880515~hmac=82019408264bbee18b47c84e397ad9e279627ad9e17719782fedbf7026abb9be);
+    background-size: 106%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
