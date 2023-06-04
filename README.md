@@ -1,6 +1,6 @@
 # TooltipReact
 
-
+A simple tooltip component that enhances user experience. When hovering over a button, a customizable tooltip appears based on the specified position prop ("top," "bottom," "right," or "left"). Built with React, it seamlessly integrates into your project, providing informative and engaging tooltips. Elevate your user interface and create a user-friendly experience with our versatile tooltip component.
 
 ## View app at
 
